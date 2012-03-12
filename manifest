@@ -1,8 +1,8 @@
-#appname: Push Pin
-#publisher: iantearle
-#url: http://
+#appname: pathmenu
+#publisher: tlukasavage
+#url: http://savagelook.com
 #image: appicon.png
-#appid: com.littlepolarapps.pushpin
+#appid: path.menu
 #desc: undefined
 #type: ipad
-#guid: aac37f56-f70c-4d67-840e-b17f5032a450
+#guid: 58e32a36-a6fc-4bd6-9195-e882b813b19c
